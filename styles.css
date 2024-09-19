@@ -4,16 +4,14 @@
 	padding:0;
 	box-sizing:border-box;
 }
-div{
-	
+.container{	
 	background-color:#f5f5f5;
 	padding:10px;
-	border:1px solid black;
-		
+		}
+#testimonial{
+	padding-left:18px;	
 }
-h1{
-	padding:20px;
-}
+
 .quote{
     background-color:white;
 	padding:15px;
